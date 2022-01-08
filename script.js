@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ndoumbesow10 
-born-2-code
-/
-Projet-Web-HTML-CSS-JavaScript-PHP
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Projet-Web-HTML-CSS-JavaScript-PHP/www/js/jquery.chocolat.js /
-@saperlipopette45
-saperlipopette45 restructurating files
-Latest commit 045b902 on 19 Apr 2017
- History
- 1 contributor
-294 lines (281 sloc)  9.96 KB
-  
+
 /*
  Inspired by the lightbox plugin adapted to jquery by Leandro Vieira Pinho (http://leandrovieira.com)
  
